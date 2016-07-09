@@ -1,4 +1,4 @@
-# eslint-config-rose
+## eslint-config-rose
 The Rose-Hulman ESLint configuration file
 
 ## Installing the eslint config
