@@ -1,5 +1,5 @@
-## eslint-config-rose
-The Rose-Hulman ESLint configuration file [![Build Status](https://travis-ci.org/pastorsj/eslint-config-rose.svg?branch=master)](https://travis-ci.org/pastorsj/eslint-config-rose)
+## eslint-config-rose [![Build Status](https://travis-ci.org/pastorsj/eslint-config-rose.svg?branch=master)](https://travis-ci.org/pastorsj/eslint-config-rose)
+The Rose-Hulman ESLint configuration file 
 
 ## Installing the eslint config
 ```
