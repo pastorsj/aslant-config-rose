@@ -38,9 +38,7 @@ module.exports = {
                 requireReturn: false
             }
         ],
-        'quote-props': [2, 'consistent-as-needed', {
-            keywords: true
-        }],
+        'quote-props': [2, 'consistent-as-needed'],
         'require-jsdoc': 1,
         'max-len': [1, 120, 4, {
             ignoreComments: true,
