@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint config for Rose-Hulman Javascript Development",
   "license": "Apache-2",
   "repository": "pastorsj/eslint-config-rose",
