@@ -9,7 +9,7 @@ module.exports = {
     goog: true
   },
   rules: {
-    'indent': [2, 2, {
+    'indent': [2, 4, {
       SwitchCase: 1
     }],
     'space-before-function-paren': [2, 'never'],
