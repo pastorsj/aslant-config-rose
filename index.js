@@ -57,6 +57,7 @@ module.exports = {
         'no-floating-decimal': 0,
         'no-unused-vars': [2, {
             args: 'none'
-        }]
+        }],
+        'linebreak-style': 0
     }
 };
