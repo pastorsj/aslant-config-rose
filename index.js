@@ -45,6 +45,7 @@ module.exports = {
             ignoreUrls: true
         }],
         'no-negated-condition': 1,
+        'guard-for-in': 1,
         'no-extend-native': 1,
         'no-loop-func': 1,
         'new-cap': ['error', {
