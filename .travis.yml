@@ -1,6 +1,13 @@
 language: node_js
 node_js:
-  - '5'
-  - '4'
-  - '0.12'
-  - '0.10'
+- '5'
+- '4'
+- '0.12'
+- '0.10'
+deploy:
+  email:
+    secure: Pov3MmdddzOWf588RYFU2Y1fr5frF7pwhKUViEBLn6wLUcktHljP+s78HsaFpU/SZZZpEK93adSeJX69K59PRjA5mgO/jIUvI23cse31mvSIx30REHwYo32QnB0k9Cosib1BwKcp1ZIi1BdMtpZypfsxorjaPBZ12X6vTo8zxCljesMK4Bes7d7qJJ843HNrVAiNvZp8a0Neczl8PRk1TT+KyssLUOrOl9FSi5RMRsqceAE2uImjpv1y+K3EIKj7rbHbI6b6Gr6Zup/TXP0353TUfn4IdD1ToutOlUEvFzAONCRnKQxj0kwEzUkqQ4hTXPDi5c4/7Qp1o/nawNGtKfg298qgfJEz7FE5Fn8O7LjTIB1Ri+d30J2qy+qJ+GNmO1y/g0K1BvSvKSgGNgUIIYsmrQtfXgE+vo4ukI/f2b5SA1pYYj+Wo7hG1YjKN7MCboIGgs47vB+QNRS26ZUCO15H7wKgy/xKAdHZfOrHGVT2ZrRu+aqZ3zV4FBeFbAbvuVHmCOmWIYD92eqVBMVgOUFVf1pC/86RC1+hA+Yum2Brrt1acxNLon1k4ks7RAvof5xHuHmGJ40JssVgIpMvjUVsDuL7rhsclnyQtpxF/Ea603eTFEdIJx4MNDG8fjbsdYbBSUP1ridhHkoiOK6etftFtBicvdY2FetQobzUi0o=
+  api_key:
+    secure: vKQK1iC2sKaOKcsaUQpP4XhERgr1B5w9lQiriG/KgSgChEsfpdJMk47/bU287ZQ78IXo1Ck/6S0YpNaal8F2qf+BhnSnw6zzJVqP2tE9K3l50mIKEy3Ta0knaclqRvJGHQomWfxwYQdVKTuk4LM4aeDqucp80VDZw2VDR7GuNicSQgORIBjFd3Su56gHXR3PODJmZ+otn8+2ga0gfFc1uVf2BFbuO907igEayVWuaKsgFKh2nU0irnV74469k0n+AW3m37qlQpCIQ3Oh7Udpoiq1syqqsekicEypxntfndBA+XfWb5JwvKz2ny5/uJKfmE++KjZIMR8yFDw/GxEVDHPlhJ0+f9qcjT8tLzv4HRm35M5ruQyvF4ZVLs9naRpcfQmR5yVgu7zuyPRv3KLn7qgCE9vFe3sKBdZNMMPLZ/Y++IyE0qn8hTKkkN0zT7+hBRSqJ5naq2cV+lNua7LU1Uwo5bnwsT05oUGp6vn9+8wz9bqlOezWH3JPliMId/NTcXcTDJelHVY5UyIPNmqDqd/Y7+xwsNP3PXXmLhNgI2kqU4EBtAH1TV0Zsg/bhTIe70AV2QKYEqoDJDnpTz0h2Z1eAuhKknXpvdcdFga4F+JlMmFuLQxnXE8QcuiAn9lTexbORAGky/B6ANaST9Jd4deaM+Fb4cf8odxvYq5lsas=
+  on:
+    branch: master
